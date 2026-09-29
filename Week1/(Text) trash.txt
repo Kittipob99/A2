@@ -1,7 +1,0 @@
-Plastic Bottle,plastic,0
-Paper Cup,paper,1
-Aluminum Can,metal,2
-Newspaper,paper,1
-Food Wrapper,plastic,0
-Steel Can,metal,2
-Cardboard,paper,1
