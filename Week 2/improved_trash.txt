@@ -1,0 +1,9 @@
+Glass,glass
+Banana Peel,food
+Plastic Bottle,plastic
+Paper Cup,paper
+Aluminum Can,metal
+Newspaper,paper
+Food Wrapper,plastic
+Steel Can,metal
+Cardboard,paper
